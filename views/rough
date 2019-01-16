@@ -1,0 +1,27 @@
+theme
+//- script.
+        //-     var linkPasswordAccount = linkPasswordAccount
+        //-     var login = login
+        //-     var logout = logout
+        //-     var reloadProfile = reloadProfile
+        //-     var linkAccount = linkAccount
+        //-     var lockAuthenticated = lockAuthenticated
+        //-     var isRootIdentity = isRootIdentity
+    
+
+
+    //- div.col-md-5
+    //-     h5 Link Social
+    //-     div.btn-group
+    //-         button(onclick = "login()") Facebook
+            
+
+        
+
+
+    user
+
+    //- div.col-md-5
+        //-     h5 Link Social
+        //-     div.btn-group
+        //-         button(onclick = "linkPasswordAccount()") Facebook

@@ -1,0 +1,25 @@
+
+extends theme
+block content
+        
+        script(src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js")
+        
+        
+
+        
+        div.container
+        div.row(style="padding:15px")
+            h1 Heya #{user.nickname}
+        div.row
+            img(src=user.picture)
+    
+            //- canvas(id="rating" style="width:100px")
+            //- canvas(id="rating1").style(width:"100px2")
+            
+
+        
+        //- script.
+        //-     var ctx = document.getElementById('rating').getContext('2d');
+        //-     var ctx1 = document.getElementById('rating1').getContext('2d')
+        //- script
+        //-     include chart.js
