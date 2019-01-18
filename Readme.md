@@ -23,6 +23,8 @@ Node JS , Javascript , www.auh0.com account
 
 
 ```
+npm install
+
 Create and auth0 account
 
 Set clientID , domain name , client Secret and callback URL in both auth0 account as well as index.js 
